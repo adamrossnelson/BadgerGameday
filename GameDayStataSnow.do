@@ -2,7 +2,7 @@ qui forvalues i = 1/10 {
 	cls
 	noi di " "
 	noi di " "
-	noi di "    +---------------------------------------------------------+"
+	noi di "    +------ U N I V E R S I T Y  O F  W I S C O N S I N ------+"
 	noi di "    |    o             .     `          *                     |"
 	noi di "    |            .          .                `       .        |"
 	noi di "    |      o          .               *                       |"
@@ -21,7 +21,7 @@ qui forvalues i = 1/10 {
 	cls
 	noi di " "
 	noi di " "
-	noi di "    +---------------------------------------------------------+"
+	noi di "    +------ U N I V E R S I T Y  O F  W I S C O N S I N ------+"
 	noi di "    |           `         *                    ,     .        |"
 	noi di "    |     o             .     `          *                    |"
 	noi di "    |             .          .                `       .       |"
@@ -40,7 +40,7 @@ qui forvalues i = 1/10 {
 	cls
 	noi di " "
 	noi di " "
-	noi di "    +---------------------------------------------------------+"
+	noi di "    +------ U N I V E R S I T Y  O F  W I S C O N S I N ------+"
 	noi di "    |            .          .                `       .        |"
 	noi di "    |          `         *                    ,     .         |"
 	noi di "    |    o             .     `          *                     |"
