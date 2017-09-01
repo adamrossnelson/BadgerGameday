@@ -8,7 +8,7 @@ qui forvalues i = 1/10 {
 	noi di "    |      o          .               *                       |"
 	noi di "    |           .             .       `                 .     |"
 	noi di "    |        .          o                .         *          |"
-	noi di "    |*              o                |"
+	noi di "    |*              o                                         |"
 	noi di "    |     .   (•_•)/      `             *             .       |"
 	noi di "    |        <)   )   IT'S                                    |"
 	noi di "    |    .   /    \            *                          .   |"
