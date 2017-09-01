@@ -6,7 +6,11 @@ The lost art of ASCII drawing. Use these files to generate UW-Madison animations
 
 ```
 do "https://raw.githubusercontent.com/adamrossnelson/BadgerGameday/master/GameDayStata.do"
+```
+Or if you want it framed and with falling snow try:
 
+```
+do "https://raw.githubusercontent.com/adamrossnelson/BadgerGameday/master/GameDayStataSnow.do"
 ```
 No installation or downloads necessary.
 
