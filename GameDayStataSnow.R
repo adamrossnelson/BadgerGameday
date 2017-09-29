@@ -1,5 +1,5 @@
 rm(list=ls())           # R's equivalent to Stata's clear all
-cat("\014\n")             # Alternate R equiv to Stata's cls
+cat("\014")             # Alternate R equiv to Stata's cls
 
 for(i in 1:10) {
   cat("\014\n")
