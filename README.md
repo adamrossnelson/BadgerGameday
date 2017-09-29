@@ -14,10 +14,16 @@ do "https://raw.githubusercontent.com/adamrossnelson/BadgerGameday/master/GameDa
 ```
 No installation or downloads necessary.
 
+### Stata to R Cross-Reference
+
+Started as April 1st joke. But, the cross-walk cross-reference is handy.
+```
+https://github.com/EconometricsBySimulation/RStata/blob/master/dictionary.rmd
+```
+
 ### Interpreters for Stata, R, Python required
 
-What things you need to install the software and how to install them
-
+Software requirements:
 ```
 https://www.stata.com/
 
