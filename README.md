@@ -1,6 +1,9 @@
 # Badgers Gameday
+## Intrdoction
 
-The lost art of ASCII drawing. Use these files to generate UW-Madison animations in Stata. Planning additions for R, Python, and others.
+The lost art of ASCII drawing. Use these files to generate UW-Madison animations in Stata.
+
+Two additional examples of side-by-side Stata, Python, & R projects (Rosetta Stones) found at [Rosetta Stone](https://github.com/adamrossnelson/rosetta) and at [crossreg](https://github.com/adamrossnelson/crossreg).
 
 ### For a quick run enter the following in Stata's command line
 
