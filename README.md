@@ -20,7 +20,13 @@ source("https://raw.githubusercontent.com/adamrossnelson/BadgerGameday/master/Ga
 ```
 No installation or downloads necessary.
 
-### Stata to R Cross-Reference
+## Other side-by-side code examples
+
+See: [BadgerGameday](https:github.com/adamrossnelson/BadgerGameday) or [rosetta](https://github.com/adamrossnelson/rosetta).  
+
+This [StataQuickReference](https://github.com/adamrossnelson/StataQuickReference) repot also offers a [Stata to Pandas Cross-Walk](https://github.com/adamrossnelson/StataQuickReference/blob/master/spcrosswlk.md).
+
+### Stata to R cross-reference
 
 Started as April 1st joke. But, the cross-walk cross-reference is handy.
 ```
